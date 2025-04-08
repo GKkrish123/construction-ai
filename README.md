@@ -4,6 +4,8 @@
 
 The AI-Powered Construction Supply Assistant is a Streamlit-based application designed to facilitate the ingestion, processing, and querying of PDF documents. Users can upload real-world construction PDFs like plumbing submittal PDFs, which are then processed and stored in a vector database, enabling efficient retrieval and interaction through natural language queries.
 
+### System Design - https://whimsical.com/construction-ai-design-DxkjsWtHAC4tKmMoRWJRuo
+
 ### How It Works
 
 1. **Document Upload**: Users upload PDF documents via the Streamlit interface. The application saves these files to a designated directory and used as document context.
