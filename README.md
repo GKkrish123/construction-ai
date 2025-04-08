@@ -20,7 +20,7 @@ The AI-Powered Construction Supply Assistant is a Streamlit-based application de
 
 * Setting up the environment
   1. Visual Studio Code (`https://code.visualstudio.com/download`) - Choose you own IDE
-  2. Python (`https://www.python.org/downloads/`)
+  2. Python 3.11.1 (`https://www.python.org/downloads/`)
   5. Create virtual environment by running the command `python -m venv <env_name>` or any other virtual env of your choice.
   6. Run the command `pip install -r requirements.txt` to install all Python dependencies.
 
